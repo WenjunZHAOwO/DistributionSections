@@ -9,3 +9,5 @@ See python notebooks for examples of
 Data should be retrieved from https://db.cngb.org/stomics/flysta3d-v2/ and https://db.cngb.org/stomics/datasets/STDS0000056.
 
 Part of the code (indicated by file names) should be credited to https://github.com/raphael-group/paste3 and https://github.com/raphael-group/MGW. 
+
+Also, AI tools were used to assist with code development and documentation, but reviewed and validated by the authors.
